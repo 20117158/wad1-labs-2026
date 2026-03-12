@@ -6,9 +6,9 @@
       <p>
         More information about the app
       </p>
-      
+      <div class="ui centered link cards"> 
       {{#each employees}}
-      <div class="ui centered card">
+      <div class="ui card">
   <div class="image">
     <img src={{image}}>
   </div>
@@ -18,7 +18,7 @@
       <span class="date">Joined in {{joined}} </span>
     </div>
     <div class="description">
-        is an {{job}}  living in {{city}} .
+        {{name}} is an {{job}}  living in {{city}}.
     </div>
   </div>
   <div class="extra content">
@@ -30,5 +30,5 @@
  
 </div>
  {{/each}}
-
+</div>
 </section>
