@@ -1,66 +1,28 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
-      "rating": 5,
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "06",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "f85ccdd7-6b95-40ba-af74-99f07421d6ea",
-          "title": "ben",
-          "artist": "ny"
-        }
-      ]
-    },
-    {
-      "id": "02",
-      "title": "Beethoven Concertos",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "40ec43f0-ae3b-473f-9a70-2b68adfcfb43",
+      "title": "Homer's New Playlist",
       "rating": 4,
-      "songs": [
-        {
-          "id": "07",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
-        }
-      ]
+      "songs": [],
+      "date": "2026-04-16T13:37:32.882Z"
     },
     {
-      "id": "03",
-      "title": "Beethoven Unfinished Symphonies",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "df1044a9-aaff-453e-86d9-0f27aa37cbf1",
+      "title": "Marge's New Playlist",
       "rating": 3,
-      "songs": []
+      "songs": [],
+      "date": "2026-04-16T13:38:37.140Z"
     },
     {
-      "id": "66e4c66c-6226-4169-947d-f85c8a74a648",
-      "title": "BEETHOVEN",
-      "date": "2026-03-19T14:24:30.477Z",
-      "rating": 1,
-      "songs": []
+      "userid": "5470219f-c5d6-45ea-8a05-04fc2b0497cb",
+      "id": "061b4e7d-10e2-4e67-a477-6e18db0c9aa0",
+      "title": "Barts playlist",
+      "rating": 3,
+      "songs": [],
+      "date": "2026-04-16T13:39:53.204Z"
     }
   ]
 }
