@@ -22,25 +22,13 @@
       "id": "5470219f-c5d6-45ea-8a05-04fc2b0497cb"
     },
     {
-      "firstName": "ben",
-      "lastName": "son",
-      "email": "silly@gmail.com",
-      "password": "Secret",
-      "id": "f11099c7-5c55-4934-9d9a-e2cf03fc26b6"
-    },
-    {
-      "firstName": "test",
-      "lastName": "testingson",
-      "email": "test@test",
-      "password": "test",
-      "id": "44ba3e22-cf5d-41f7-89cc-eaf1c37779e1"
-    },
-    {
-      "firstName": "test",
-      "lastName": "testingson",
-      "email": "test@test",
+      "firstName": "lisa",
+      "lastName": "simpson",
+      "email": "lisa@simpson@gmail.com",
       "password": "secret",
-      "id": "e73a0436-79e0-4511-bea7-398790af1241"
+      "id": "f139468a-5ce9-44c1-a20a-831cd81454b0",
+      "picture": "http://res.cloudinary.com/dy4eojfeh/image/upload/v1776953222/ecwjodphuyax4qqjtfyp.jpg",
+      "pictureId": "ecwjodphuyax4qqjtfyp"
     }
   ]
 }

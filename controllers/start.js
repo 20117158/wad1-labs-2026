@@ -14,6 +14,7 @@ createView(request, response) {
         title: "Welcome to the Playlist app!",
         info: appStore.getAppInfo(),
         fullname: loggedInUser.firstName + ' ' + loggedInUser.lastName,
+        picture: loggedInUser.picture,
       };
       response.render('start', viewData);
     }
