@@ -14,6 +14,7 @@ createView(request, response) {
         title: 'About the Playlist App',
         fullname: loggedInUser.firstName + ' ' + loggedInUser.lastName,
         employees: employees.getAppInfo(),
+        picture: loggedInUser.picture,
       };
       response.render('about', viewData);
     }

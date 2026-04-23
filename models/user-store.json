@@ -29,6 +29,24 @@
       "id": "f139468a-5ce9-44c1-a20a-831cd81454b0",
       "picture": "http://res.cloudinary.com/dy4eojfeh/image/upload/v1776953222/ecwjodphuyax4qqjtfyp.jpg",
       "pictureId": "ecwjodphuyax4qqjtfyp"
+    },
+    {
+      "firstName": "lisa",
+      "lastName": "simpson",
+      "email": "lisa@simpson@gmail.com",
+      "password": "secret",
+      "id": "790396d0-01fd-41f2-9bde-f80a0659e5f9",
+      "picture": "http://res.cloudinary.com/dy4eojfeh/image/upload/v1776953492/r9v1dh6fuebfhscoi4ys.jpg",
+      "pictureId": "r9v1dh6fuebfhscoi4ys"
+    },
+    {
+      "firstName": "john",
+      "lastName": "johnson",
+      "email": "john@gmail.com",
+      "password": "john",
+      "id": "23eaf9aa-9864-4522-bf69-a8553ef62cdb",
+      "picture": "http://res.cloudinary.com/dy4eojfeh/image/upload/v1776953807/ni3z0uhugmijae9vrq0w.png",
+      "pictureId": "ni3z0uhugmijae9vrq0w"
     }
   ]
 }
