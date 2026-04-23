@@ -34,6 +34,13 @@
       "email": "test@test",
       "password": "test",
       "id": "44ba3e22-cf5d-41f7-89cc-eaf1c37779e1"
+    },
+    {
+      "firstName": "test",
+      "lastName": "testingson",
+      "email": "test@test",
+      "password": "secret",
+      "id": "e73a0436-79e0-4511-bea7-398790af1241"
     }
   ]
 }
